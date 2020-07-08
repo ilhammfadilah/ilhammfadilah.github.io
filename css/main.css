@@ -66,6 +66,7 @@ img{
 @media screen and (max-width: 700px) {
 	.container {   
 	  flex-direction: column;
+	  margin:10px;
 	}
 	.profile-wrapper{
 		width: 100%;
@@ -81,6 +82,7 @@ img{
   @media screen and (max-width: 460px) {
 	.container {   
 	  flex-direction: column;
+	  margin:10px;
 	}
 	.profile-wrapper{
 		width: 100%;
