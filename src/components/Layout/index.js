@@ -35,7 +35,6 @@ const Layout = ({ children }) => {
             transition={{ delay: 0.2 }}
           >
             {children}
-            <Newsletter />
             <Footer />
           </motion.div>
         </Styled.Layout>
