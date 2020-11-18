@@ -166,7 +166,11 @@ header .header_social-wrapper .social-icons .fa-linkedin {
 		max-width: 100%;
 	}
 	#hero .hero_wrapper {
+		display: block;
 		margin: 0 1em;
+	}
+	#hero .hero_wrapper .hero_image {
+		width: 50%;
 	}
 	#hero .image_image_wrapper {
 		margin: 0 1em;
