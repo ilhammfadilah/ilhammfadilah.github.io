@@ -18,9 +18,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.container {
-}
-
 .box-container {
   display: flex;
   align-items: center;
